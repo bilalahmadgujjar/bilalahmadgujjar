@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Bilal Ahmad Gujjar</h1>
+<h1 align="center">Hi there 👋, I'm Muhammad Bilal Ahmad</h1>
 <h3 align="center">🚀 Flutter Developer | 💡 Tech Enthusiast | 🌐 Open Source Contributor</h3>
 
 <p align="center">

@@ -13,7 +13,7 @@
 - 🌱 I’m learning **New innovations in tech**
 - 💬 Ask me about **Flutter, Firebase, Dart, MVC, GoRouter, FCM, WebSockets**
 - 💞️ I’m looking to collaborate on **real-time apps, open-source Flutter tools, and Firebase integrations**
-- 📫 How to reach me: **bilalahmadgujjar@gmail.com**
+- 📫 How to reach me: **bilaltech271@gmail.com**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: *I love turning coffee ☕ into code and ideas into apps!*
 

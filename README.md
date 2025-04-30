@@ -39,12 +39,13 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bilalahmadgujjar&theme=radical" alt="bilalahmadgujjar streak" />
+  <img src="https://streak-stats.demolab.com?user=bilalahmadgujjar&theme=radical" alt="bilalahmadgujjar streak" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalahmadgujjar&layout=compact&theme=radical" alt="bilalahmadgujjar languages" />
 </p>
+
 
 ---
 

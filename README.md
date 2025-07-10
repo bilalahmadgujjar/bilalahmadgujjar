@@ -43,8 +43,9 @@
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=bilalahmadgujjar&theme=radical&date=" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=bilalahmadgujjar&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=FF6E96&ring=F7CE68&currStreakNum=DDDDDD&currStreakLabel=F7CE68&sideLabels=DDDDDD&background=0D1117&cache_bust=20250710" alt="GitHub Streak" />
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalahmadgujjar&layout=compact&theme=radical" alt="bilalahmadgujjar languages" />

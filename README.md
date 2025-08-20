@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on Flutter-based large scale apps and SaaS development
 - 🌱 I’m learning **New innovations in tech**
-- 💬 Ask me about **Flutter, Firebase, Dart, MVVM, GoRouter, FCM, WebSockets, DeepLinking**
+- 💬 Ask me about **Flutter, RESTful API's, Firebase, Dart, MVVM, GoRouter, FCM, WebSockets, DeepLinking**
 - 💞️ I’m looking to collaborate on **real-time apps, open-source Flutter tools, and Firebase integrations**
 - 📫 How to reach me: **bilaltech271@gmail.com**
 - 😄 Pronouns: **He/Him**

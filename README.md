@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Bilal Ahmad</h1>
+<h1 align="center">Hi there, I'm Muhammad Bilal Ahmad</h1>
 
 ---
 
@@ -63,11 +63,11 @@
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
 </p>
 
-
+Open Source Contributor from Pakistan 💚
 
 ---
 
-### 📈 GitHub Stats
+### 📈 My GitHub Stats
 
 <p align="center">
   <!-- GitHub stats -->

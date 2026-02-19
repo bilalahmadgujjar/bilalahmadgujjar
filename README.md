@@ -1,8 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Muhammad Bilal Ahmad</h1>
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:2000/format:webp/1*jmKuW7ItWRJAHNABfTEhHA.gif" width="600"/>
+  <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*X6VQ4KHpw13qGs04" width="700"/>
 </p>
-
 
 <h3 align="center">🚀 Flutter Developer | 💡 Tech Enthusiast | 🌐 Open Source Contributor</h3>
 

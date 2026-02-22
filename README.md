@@ -69,20 +69,12 @@ Open Source Contributor from Pakistan 💚
 
 ### 📈 My GitHub Stats
 
-<p align="center">
-  <!-- GitHub stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=bilalahmadgujjar&show_icons=true&theme=radical" alt="bilalahmadgujjar stats" />
-</p>
 
 <p align="center">
   <!-- GitHub streak stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bilalahmadgujjar&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <!-- Top languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalahmadgujjar&layout=compact&theme=radical" alt="bilalahmadgujjar languages" />
-</p>
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bilalahmadgujjar&show_icons=true&theme=radical" alt="bilalahmadgujjar stats" />

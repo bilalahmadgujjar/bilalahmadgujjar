@@ -1,5 +1,4 @@
 <h1 align="center">Hi there, I'm Muhammad Bilal Ahmad</h1>
----
 
 ### 📫 Let's Connect
 
